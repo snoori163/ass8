@@ -1,0 +1,47 @@
+
+body{
+    background-image: url('../images/img2.jpeg');
+    
+    
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h1{
+  margin: 2rem;
+  padding: 1rem;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 4rem;
+  color: grey;
+  text-align: center;
+}
+
+.product{
+    padding: 2rem;
+    
+    margin: 2rem;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    font-size: 2rem;
+    border-radius: 10px;
+}
+
+.nextto{
+  margin: 2rem;
+  width: 8%;
+  height: 10%
+  color: grey;
+  text-align: center;
+  font-family: Arial;
+  font-weight: none;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 10px;
+}

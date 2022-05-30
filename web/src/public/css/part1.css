@@ -1,0 +1,39 @@
+body{
+    background-image: url('../images/img2.jpeg');
+}
+
+h1{
+  margin: 2rem;
+  padding: 1rem;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 4rem;
+  color: grey;
+  text-align: center;
+}
+
+
+
+
+.top{
+    margin: 2rem;
+    padding: 1rem;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 1.6rem;
+    color: grey;
+    text-align: center;
+    
+}
+
+
+    
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #96D4D4;
+  padding: 1rem;
+}
+    

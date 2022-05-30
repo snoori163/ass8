@@ -1,0 +1,118 @@
+body{
+    background-image: url('../images/img.jpeg');
+    
+    
+}
+.cen {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h1{
+  margin: 2rem;
+  padding: 1rem;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 4rem;
+  color: lightblue;
+  text-align: center;
+}
+.hi{
+    margin: 2rem;
+    padding: 1rem;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 4rem;
+    color: lightblue;
+    text-align: center;
+}
+.text{
+    margin: 2rem;
+    padding: 1rem;
+    font-family: Arial;
+    font-size: 2rem;
+    color: lightblue;
+    
+}
+.part1{
+    margin: 2rem;
+    padding: 1rem;
+    font-family: Arial;
+    font-size: 2rem;
+    color: lightblue;
+    line-height: 1.7;
+}
+
+.butt{
+  text-align: center;
+}
+
+.butt1{
+  text-align: center;
+}
+.nextto{
+  display: inline-block;
+  width: 35%;
+  padding: 3rem;
+  margin-left: 3rem;
+  margin-right: 5rem;
+  margin-bottom: 4rem;
+  margin-top: 2rem;
+  background-color: purple;
+  color: white;
+  text-align: center;
+  font-family: Comic Sans MS, cursive, sans-serif;
+  font-weight: bold;
+  font-size: 2rem;
+  cursor: pointer;
+  border-radius: 10px;
+  transition-duration: 0.4s;
+}
+
+.members{
+  margin: 2rem;
+  color: lightblue;
+  font-size: 2rem;
+  font-family: Arial;
+}
+button:hover {
+  background-color: pink;
+  color: white;
+  font-size: 1rem;
+}
+.txt{
+  margin: 2rem;
+  text-align: center;
+  font-size: 4rem;
+  font-family: Arial;
+  color: lightblue;
+  font-family: Arial;
+}
+.offfers{
+  background-color: grey;
+  display: grid;
+  place-items: center;
+
+  
+}
+
+.off{
+  display: inline-block;
+  width: 25%;
+  padding: 1.5rem;
+  margin-left: 4rem;
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  background-color: purple;
+  color: white;
+  text-align: center;
+  font-family: Comic Sans MS, cursive, sans-serif;
+  font-weight: none;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 50%;
+  transition-duration: 0.4s;
+
+}

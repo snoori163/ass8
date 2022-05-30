@@ -1,0 +1,47 @@
+body{
+    background-image: url('../images/img2.jpeg');
+}
+
+h1{
+  margin: 2rem;
+  padding: 1rem;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 4rem;
+  color: grey;
+  text-align: center;
+}
+
+#container{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+#container div{
+    align-items: center;
+    margin: 1rem;
+    padding: 1rem;
+    width: 100%;
+    color: lightyellow;
+    border-radius: 12px;
+    background-color: grey;
+}
+.cost{
+    font-size: 1.6rem;
+    text-align: left;
+    padding: 1rem;
+}
+.revenue{
+    font-size: 1.6rem;
+    text-align: left;
+    padding: 1rem;
+}
+.title{
+    font-size: 2rem;
+}
+
+.pee{
+    font-size: 2rem;
+    text-align: center;
+}
